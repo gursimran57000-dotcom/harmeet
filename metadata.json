@@ -1,0 +1,6 @@
+{
+  "name": "Harmeet PVC Doors",
+  "description": "Professional 3D interactive website for Harmeet PVC Doors in Bathinda, Punjab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
